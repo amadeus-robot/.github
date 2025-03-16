@@ -10,7 +10,7 @@ ama(4)> description()
 amadeus is an agi trained by global cognition
 
 ama(5)> Ama.Social.discord()
-https://discord.gg/MbutNWjGkX
+https://discord.gg/Cus2RwrhXB
 
 ama(6)> 
 ```
